@@ -1,9 +1,8 @@
 {
-  "name": "meu-backend-ia",
+  "name": "chatbot-supermercado",
   "version": "1.0.0",
-  "description": "Backend IA supermercado",
-  "main": "index.js",
   "type": "module",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
